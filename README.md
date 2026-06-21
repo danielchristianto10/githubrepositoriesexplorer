@@ -5,7 +5,7 @@ Aplikasi React + TypeScript untuk mencari pengguna GitHub dan melihat daftar rep
 ## Demo
 
 Demo URL:
-[masukan demo url]
+https://danielchristianto10.github.io/githubrepositoriesexplorer/
 
 ## Repositori
 
